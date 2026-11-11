@@ -5,9 +5,10 @@
 ![Platform](https://img.shields.io/badge/platform-macOS-lightgrey)
 ![Version](https://img.shields.io/badge/version-1.9.2-brightgreen)
 
-火山方舟（Volcengine Ark）**Seedance 视频生成**和 **Skills / 智能体管理**的本地图形界面：一个 Python 本地后端 + 一个单页前端，在浏览器里使用。
+**Seedance 视频生成**和 **Skills / 智能体管理**的本地图形界面：一个 Python 本地后端 + 一个单页前端，在浏览器里使用。
 
-> 这是个人开发的非官方工具，与火山引擎 / 字节跳动没有关联。调用接口产生的费用由你的方舟账号承担。
+> 这是个人开发的非官方工具，Vibe-Coding项目，作者：Akari-Zeng，使用Claude Opus 5.5，ChatGPT Astra 6
+> 与火山引擎 / 字节跳动没有关联，“Seedance”只做为本项目的索引名称，版权归属字节跳动，对应调用接口产生的费用由你的方舟账号承担。
 
 ![主界面（白天模式）](docs/images/workspace-light.png)
 
@@ -225,4 +226,4 @@ Copyright (C) 2026 Akari_Zeng
 
 发布本程序是希望它有用，但**不提供任何担保**，甚至不包括对适销性或特定用途适用性的默示担保。详见 [LICENSE](LICENSE) 全文，或 <https://www.gnu.org/licenses/old-licenses/gpl-2.0.html>。
 
-火山方舟、Seedance 等名称和商标属于其各自的权利人；`docs/ark-api-reference.md`（如果你自行放入）的版权属于火山引擎，不在本项目的许可范围内。
+火山方舟、Seedance 等名称和商标属于其各自的权利人；`docs/ark-api-reference.md`的版权属于火山引擎，不在本项目的许可范围内。
