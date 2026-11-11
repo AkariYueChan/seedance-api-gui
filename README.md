@@ -214,9 +214,6 @@ python3 scripts/build_release.py
 
 发现安全问题，请通过仓库的 Issue 联系（不要在 Issue 中贴出任何 Key）。
 
-## 更新记录
-
-见 [CHANGELOG.md](CHANGELOG.md)。
 
 ## 许可证
 
