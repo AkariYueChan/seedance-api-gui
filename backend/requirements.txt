@@ -1,0 +1,4 @@
+# 都是可选依赖：不安装时仍可使用 SQLite 和 HTTP(S) 代理
+PyMySQL>=1.1          # MySQL / MariaDB
+psycopg[binary]>=3.1  # PostgreSQL
+PySocks>=1.7          # SOCKS5 代理
