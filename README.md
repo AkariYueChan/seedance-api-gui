@@ -7,8 +7,8 @@
 
 **Seedance 视频生成**和 **Skills / 智能体管理**的本地图形界面：一个 Python 本地后端 + 一个单页前端，在浏览器里使用。
 
-> 这是个人开发的非官方工具，Vibe-Coding项目，作者：Akari-Zeng，使用Claude Opus 5.5，ChatGPT Astra 6
-> 与火山引擎 / 字节跳动没有关联，“Seedance”只做为本项目的索引名称，版权归属字节跳动，对应调用接口产生的费用由你的方舟账号承担。
+> 这是个人开发的非官方工具，Vibe-Coding项目，作者：Akari-Zeng，使用Claude Opus 5.5，ChatGPT Astra 6，
+> 与火山引擎 / 字节跳动没有关联，“Seedance”只做为本项目的索引名称，法律名称/商标版权归属字节跳动，对应调用接口产生的费用由你的方舟账号承担。
 
 ![主界面（白天模式）](docs/images/workspace-light.png)
 
